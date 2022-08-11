@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 import pycurl
 import numpy as np
-import pandas
 from bs4 import BeautifulSoup
 import uuid
 from io import BytesIO
